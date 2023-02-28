@@ -1,6 +1,6 @@
 {    
   "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-  "title": "Eclipse_Adoptium_OpenJDK8U-jdk_x64_windows_hotspot_8u345b01",
+  "title": "TestArtifact",
   "publisher": "Eclipse Foundation",
   "description": "Installs Eclipse Adoptium OpenJDK on Windows and sets the JAVA_HOME path environment variable. Artifact v1.05",
   "tags": [
