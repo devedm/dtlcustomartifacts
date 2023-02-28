@@ -11,6 +11,6 @@
   "targetOsType": "Windows",
 	
   "runCommand": {
-    "commandToExecute": "['powershell.exe -ExecutionPolicy bypass ./Eclipse_Adoptium_OpenJDK8U.ps1']"
+    "commandToExecute": "['powershell.exe -ExecutionPolicy bypass ./newscript.ps1']"
   }
 }
